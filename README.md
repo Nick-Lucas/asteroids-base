@@ -4,6 +4,8 @@ Upgraded code example from codepen, uses webpack bundling with babel to support 
 
 1 known bug: At the end of round you cannot submit a score.
 
+Try it here: https://nick-lucas.github.io/qmul-asteroids-game/dist/ 
+
 ### Running:
 
 Install:
